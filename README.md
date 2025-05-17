@@ -3,6 +3,8 @@
 
 A recursive-reflexive, adaptive logic simulation framework that models a self-consistent, contradiction-aware reasoning system. Inspired by cognitive architectures and meta-logic principles.
 
+![Simulation Graph](graph.png)
+
 ---
 
 ## 🔍 Features
